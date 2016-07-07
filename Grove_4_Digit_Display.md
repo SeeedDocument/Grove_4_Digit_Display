@@ -80,7 +80,9 @@ void loop()
 **With Arduino**
 
 The module uses an LED drive chip - TM1637 to control the contents and change the luminance. Here we drive it to display time. 
+
 1. Connect the Grove socket marked "IN" on the LED Strip Driver and digital port 2 of the [Grove - Base Shield](https://www.seeedstudio.com/item_detail.html?p_id=754) with a Grove cable. You can change to the digital port as you like. But don't forget to change the port number in the definition of the demo code at the same time.
+
 2. Plug onto Arduino/Seeeduino or plug [Grove - Mega Shield](https://www.seeedstudio.com/item_detail.html?p_id=934) onto Arduino Mega. 
 
 Seeeduino and Grove - 4-digit display:
@@ -88,12 +90,16 @@ Seeeduino and Grove - 4-digit display:
 
 Arduino Mega and Grove-4-Digital Display.
 ![](https://raw.githubusercontent.com/SeeedDocument/Grove_4_Digit_Display/master/image/Arduino_Mega_and_4-digit_display.jpg)
+
 3. Connect Arduino/Seeeduino to PC via a USB cable.
+
 4. Download the [4-Digit Display library](http://www.seeedstudio.com/wiki/File:DigitalTube.zip) and TimerOne library. Unzip and put them in the libraries file of Arduino IDE by the path: ..\arduino-1.0\libraries.
+
 5. Restart the Arduino IDE, open one demo code you like, for example ClockDisplay directly by the path:File -> Example ->DigitalTube->ClockDisplay.
 ![](https://raw.githubusercontent.com/SeeedDocument/Grove_4_Digit_Display/master/image/Open_ClockDisplay.ino.jpg)
 
 6. Upload the demo code and the clock will be ticking in a few seconds. Please click [here](http://www.seeedstudio.com/wiki/Upload_Code) if you do not know how to upload.
+
 You can see this: 
 ![](https://raw.githubusercontent.com/SeeedDocument/Grove_4_Digit_Display/master/image/Display_the_clock.jpg)
 
