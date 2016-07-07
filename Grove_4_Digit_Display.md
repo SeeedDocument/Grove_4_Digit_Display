@@ -86,11 +86,12 @@ The module uses an LED drive chip - TM1637 to control the contents and change th
 2.Plug onto Arduino/Seeeduino or plug [Grove - Mega Shield](https://www.seeedstudio.com/item_detail.html?p_id=934) onto Arduino Mega. 
 
 Seeeduino and Grove - 4-digit display:
+
 ![](https://raw.githubusercontent.com/SeeedDocument/Grove_4_Digit_Display/master/image/500px-Seeeduino_and_4-digit_display.jpg)
 
 Arduino Mega and Grove-4-Digital Display.
 
-![](https://raw.githubusercontent.com/SeeedDocument/Grove_4_Digit_Display/master/image/Arduino_Mega_and_4-digit_display.jpg)
+![](https://raw.githubusercontent.com/SeeedDocument/Grove_4_Digit_Display/master/image/500px-Arduino_Mega_and_4-digit_display.jpg)
 
 3.Connect Arduino/Seeeduino to PC via a USB cable.
 
