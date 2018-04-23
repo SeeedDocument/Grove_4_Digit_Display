@@ -2,7 +2,7 @@
 
 **SKU**: [104030003](https://www.seeedstudio.com/item_detail.html?p_id=1198)
 
-**Wiki Link**: [wiki.seeed.cc](wiki.seeed.cc)
+**Wiki Link**: [Grove-4 Digit Display](http://wiki.seeedstudio.com/Grove-4-Digit_Display/)
 
 
 ###Change Log:
